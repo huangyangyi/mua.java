@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35f82c4e-04ee-4465-b53f-4c52526a22ec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="iZJqKEeR" />
+  </component>
+  <component name="ProjectId" id="1V0lBdW6e7q3xumTIzkTK5oTQLS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.mua.Main" />
+      <module name="mua_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.mua.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="mua_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35f82c4e-04ee-4465-b53f-4c52526a22ec" name="Default Changelist" comment="" />
+      <created>1572603745327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572603745327</updated>
+      <workItem from="1572603748817" duration="23448000" />
+      <workItem from="1572833510326" duration="436000" />
+      <workItem from="1573605289226" duration="3478000" />
+      <workItem from="1573714599039" duration="106000" />
+      <workItem from="1573714730969" duration="40000" />
+      <workItem from="1574209918834" duration="4628000" />
+      <workItem from="1574344961682" duration="1821000" />
+      <workItem from="1575781985186" duration="15643000" />
+      <workItem from="1576078738113" duration="1163000" />
+      <workItem from="1576121943764" duration="123000" />
+      <workItem from="1576204608376" duration="684000" />
+      <workItem from="1576206094454" duration="70000" />
+      <workItem from="1576206247557" duration="161000" />
+      <workItem from="1576208898208" duration="4519000" />
+      <workItem from="1576241579674" duration="1484000" />
+      <workItem from="1576246205235" duration="2051000" />
+      <workItem from="1576396936605" duration="219000" />
+      <workItem from="1576397265774" duration="401000" />
+      <workItem from="1576397766257" duration="6000" />
+      <workItem from="1576466885877" duration="9422000" />
+      <workItem from="1576602330758" duration="62000" />
+      <workItem from="1577236012121" duration="5615000" />
+      <workItem from="1577864614757" duration="318000" />
+      <workItem from="1577865074709" duration="3839000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="553" y="177" width="812" height="732" key="#Intentions" timestamp="1576505738357">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="553" y="177" width="812" height="732" key="#Intentions/0.0.1920.1040@0.0.1920.1040" timestamp="1576505738357" />
+    <state x="766" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1576498914345">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="766" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576498914345" />
+    <state x="641" y="254" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577864871187">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="641" y="254" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577864871187" />
+    <state x="691" y="265" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1577241016265">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="691" y="265" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577241016265" />
+    <state width="1876" height="537" key="GridCell.Tab.0.bottom" timestamp="1577868916855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="537" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577868916855" />
+    <state width="1876" height="537" key="GridCell.Tab.0.center" timestamp="1577868916854">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="537" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577868916854" />
+    <state width="1876" height="537" key="GridCell.Tab.0.left" timestamp="1577868916854">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="537" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577868916854" />
+    <state width="1876" height="537" key="GridCell.Tab.0.right" timestamp="1577868916854">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="537" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577868916854" />
+    <state x="455" y="161" key="SettingsEditor" timestamp="1576602389036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="455" y="161" key="SettingsEditor/0.0.1920.1040/923.-1080.1920.1040@0.0.1920.1040" timestamp="1576602389036" />
+    <state x="634" y="255" width="650" height="538" key="find.popup" timestamp="1577868853199">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="634" y="255" width="650" height="538" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1577868853199" />
+    <state x="703" y="146" key="refactoring.ChangeSignatureDialog" timestamp="1577236187901">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="703" y="146" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577236187901" />
+    <state x="619" y="242" key="run.anything.popup" timestamp="1577238253524">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="619" y="242" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1577238253524" />
+    <state x="623" y="226" key="search.everywhere.popup" timestamp="1577868283906">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="226" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1577868283906" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/src/mua/parse/Interpreter.java</url>
+          <line>100</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>mua_java</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
