@@ -5,4 +5,4 @@
  
  Implemented in an easy way without using AST.
  
- To use the interpreter, please compile & execute `src\src\mua\Main.java` 
+ To use the interpreter, please compile & execute `src/src/mua/Main.java` 
